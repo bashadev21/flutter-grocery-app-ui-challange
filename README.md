@@ -1,4 +1,4 @@
-# ecommerceapp_ui_challange
+# Grocery_app_ui_challange
 
 A new Flutter project.
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![image_processing20200203-5855-1dtjjb5](https://user-images.githubusercontent.com/74558749/118472575-99afaf00-b726-11eb-8afd-e252ab37d4b2.gif)
